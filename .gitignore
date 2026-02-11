@@ -1,0 +1,26 @@
+# Virtual environment
+venv/
+env/
+ENV/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Project data
+dataset/
+logs/
+*.csv
+
+# OS
+.DS_Store
+Thumbs.db
